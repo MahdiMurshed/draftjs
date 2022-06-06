@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+  border: 2px solid #ccc;
+  border-radius: 3px;
+  min-height: 5em;
+  padding: 4px;
+}
